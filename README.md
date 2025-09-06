@@ -74,9 +74,9 @@ Modern machine capabilities generally classified as AI include successfully unde
 
 ## 🔮 Future Scope
 
-1.Summarization from external files (TXT, PDF, DOCX)
-2.Summarization from web articles/URLs
-3.Interactive Streamlit Web Application for user-friendly summarization
+- **Summarization from external files (TXT, PDF, DOCX)
+- **Summarization from web articles/URLs
+- **Interactive Streamlit Web Application for user-friendly summarization
 
 ---
 
